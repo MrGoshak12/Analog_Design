@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Power_bank1.0lib)(type Legacy)(uri ${KIPRJMOD}/Power_bank1.0lib.lib)(options "")(descr ""))
+  (lib (name Power_bank1.0-rescue)(type Legacy)(uri ${KIPRJMOD}/Power_bank1.0-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MPackage_SO)(type KiCad)(uri ${KIPRJMOD}/MPackage_SO.pretty)(options "")(descr ""))
+  (lib (name My_USB_TYPEA)(type KiCad)(uri ${KIPRJMOD}/My_USB_TYPEA.pretty)(options "")(descr ""))
+)
