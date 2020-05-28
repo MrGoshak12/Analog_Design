@@ -1,0 +1,4 @@
+http transferring http://www.onsemi.com/pub/Collateral/2N7000.REV0.LIB to D:\Prog_git\lab_works\Lab2\Simulation\Voltage_restricter\2N7000.REV0.LIB
+Circuit: * D:\Prog_git\lab_works\Lab2\Simulation\Voltage_restricter\Draft3.asc
+
+Fatal Error: Unknown SPICE device type "N" in "n§m1 nc_01 nc_02 nc_03 mm"
